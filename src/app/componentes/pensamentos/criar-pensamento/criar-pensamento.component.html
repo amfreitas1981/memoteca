@@ -44,6 +44,7 @@
           <p class="autoria"><b>{{ pensamento.autoria }}</b></p>
         </div>
       </div>
+
       <div class="radio-modelo">
         <label for="modelo2">
           <input
@@ -65,6 +66,7 @@
           <p class="autoria"><b>{{ pensamento.autoria }}</b></p>
         </div>
       </div>
+
       <div class="radio-modelo">
         <label for="modelo3">
           <input
@@ -89,7 +91,7 @@
     </div>
     <div class="acoes">
       <button (click)="criarPensamento()" class="botao">Salvar</button>
-      <button (click)="cancelar()" class="botao">Cancelar</button>
+      <button (click)="cancelar()" routerLink="/listarPensamento" class="botao">Cancelar</button>
     </div>
   </form>
 </section>
