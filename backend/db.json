@@ -1,0 +1,22 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "O importante não é vencer todos os dias, mas lutar sempre.",
+      "autoria": "Walt Disney",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 2,
+      "conteudo": "Acredite em si próprio e chegará um dia em que os outros não terão outra escolha senão acreditar com você.",
+      "autoria": "Cynthia Kersey",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 3,
+      "conteudo": "Não importa o quão devagar você vá, desde que você não pare.",
+      "autoria": "Confúcio",
+      "modelo": "modelo3"
+    }
+  ]
+}
